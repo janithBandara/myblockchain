@@ -1,0 +1,2 @@
+Installed chaincodes on peer:
+Package ID: track-record_1.0:25b00a4a12c364dac3d99afdd007d6813dfbf219941c15c68b2b17e2fc983993, Label: track-record_1.0
